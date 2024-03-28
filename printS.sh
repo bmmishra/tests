@@ -7,3 +7,5 @@ y=secondversions
 grep -o "s" <<< "$y" | wc -l
 
 #add new branch test
+
+#to check merging through rebase command
