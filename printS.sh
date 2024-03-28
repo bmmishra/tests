@@ -7,3 +7,4 @@ y=secondversions
 grep -o "s" <<< "$y" | wc -l
 
 #add new branch test
+#this branch tests the mereging through merge 
